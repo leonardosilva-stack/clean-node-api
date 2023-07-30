@@ -1,9 +1,7 @@
 {
     "extends": "standard-with-typescript",
     "parserOptions": {
-        "project":"./tsconfig.json"
-    },
-    "compilerOptions":{
-        "strictNullChecks": true
+      "project": "./tsconfig.json"
     }
-}
+  }
+  
